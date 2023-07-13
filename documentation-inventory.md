@@ -32,6 +32,8 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * [https://greenstand.org/devbox](https://greenstand.org/devbox)
 * [https://greenstand.org/docs](https://greenstand.org/docs)
   * To be deleted (redundant, present in `greenstand-documentation`)
+* [https://greenstand.org/documentation](https://greenstand.org/documentation)
+  * To be deleted ( redundant, present in `greenstand-documentation`)
 
 #### Wikis
 
