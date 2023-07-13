@@ -53,7 +53,7 @@ You should have management permissions for the Github repo you want to sync to.
 If you want to contribute to the existing documentation of a project, you can do so in two ways:
 
 * On Gitbook, if you have the necessary permissions
-* On Github, using the Fork and Pull model, i.e, create a pull request for any documentation change.
+* On Github, using the [Fork and Pull model](https://gist.github.com/Chaser324/ce0505fbed06b947d962), i.e, create a pull request for any documentation change.
   * If you are adding a new page, remember to update the `SUMMARY.md` with the page link, as Gitbook doesn't seem to update it automatically.
   * If you are creating a new document group, create a `README.md` as the main page of that group.
   * Assets (such as uploaded files, images, etc.) go in `.gitbook/assets`
