@@ -101,6 +101,10 @@ Using the above image as a guideline, we can divide the documentation into 2 typ
 
 ### Greenstand Core Audiences
 
+1. Growers
+2. Organizations
+3. Contributors
+
 ### Consolidating documentation
 
 * Single Documentation Portal
