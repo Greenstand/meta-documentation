@@ -5,3 +5,4 @@
 * [Documentation Plan](documentation-plan.md)
 * [Documentation Framework](documentation-framework.md)
 * [Documentation Inventory](documentation-inventory.md)
+* [Template for project](template-for-project.md)

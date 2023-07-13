@@ -133,6 +133,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
   * Design
     * [https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/mMqp4Nu2K1a93bf6oSUN/](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/mMqp4Nu2K1a93bf6oSUN/)
     * Currently unpublished
+    * Unknown if synced to any Github repo
 * Programs
   * Programs
     * [https://docs.greenstand.org/programs/](https://docs.greenstand.org/programs/)
