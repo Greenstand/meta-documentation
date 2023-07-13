@@ -13,13 +13,13 @@ The scope of this documentation project includes:
 
 * [ ] Recruit and Appoint Documentation Project Lead and Project Manager
   * Appointment of a Project Lead and Project Manager
-* [x] Complete inventory of existing documentation
+* [x] [Complete inventory of existing documentation](documentation-framework.md#indexing-existing-documentation)&#x20;
   * MD file on Github with links and descriptions of all documentation
-* [ ] Perform an audit of Greenstand’s existing information and documentation. Include what exists now, where it's located, updates needed, and any gaps, and enhancement opportunities.
+* [ ] [Perform an audit of Greenstand’s existing information and documentation. Include what exists now, where it's located, updates needed, and any gaps, and enhancement opportunities.](documentation-framework.md#auditing-existing-information)
   * Adding document status to the MD file on Github with links and descriptions of all documentation.
-* [ ] Research options and best practices for Documentation structure
+* [ ] [Research options and best practices for Documentation structure](documentation-framework.md#standardizing-the-documentation)
   * Create a publicly accessible and linked road map file outlining path forward for documentation.
-* [ ] Identify and articulate needs/wants/desires for each of Greenstand’s three core audiences.
+* [ ] [Identify and articulate needs/wants/desires for each of Greenstand’s three core audiences.](documentation-framework.md#greenstand-core-audiences)
   * MD file on Github containing research findings, outlining the current project state and suggestions for how to move forward
 * [ ] Identify problem areas and outline the current process for onboarding core audiences.
   * MD file on Github with links to relevant onboarding files, recommended enhancements, additions/deletions, and processes for making updates ongoing
@@ -31,18 +31,18 @@ The scope of this documentation project includes:
   * Md file on Github with recommendations for videos or advanced Slack programming. Note: The creation of videos may occur as a second phase of the initiative.
 * [ ] Detailed review, rewriting, and revisions of documentation to enable volunteers of all skill levels to advance their skills here.
   * Advanced well-written documentation for all stakeholders with a focus on easy-to-find-and-follow pathways for volunteer contributors of all levels.
-* [ ] Create a centralized documentation portal. Consolidation, indexing, and advancement of all critical documentation issues discovered in the audit.
+* [ ] [Create a centralized documentation portal. Consolidation, indexing, and advancement of all critical documentation issues discovered in the audit.](documentation-framework.md#consolidating-documentation)
   * A single well organized portal at `docs.greenstand.org`
-* [ ] Document and communicate a process for accessing, and maintaining/updating documents in the portal. Create supporting documentation. Develop oversight requirements and a process for updating/maintaining the portal.
+* [ ] [Document and communicate a process for accessing, and maintaining/updating documents in the portal. Create supporting documentation. Develop oversight requirements and a process for updating/maintaining the portal.](documentation-framework.md#support-documentation)
   * Clear documentation.
 * [ ] Communicate as necessary to raise awareness of the new portal and explain the process for document migration.
   * Migrated documents.
-* [ ] Consolidate/migrate documentation, including archiving documentation and repositories that are old, outdated, or obsolete.
+* [ ] [Consolidate/migrate documentation, including archiving documentation and repositories that are old, outdated, or obsolete.](documentation-framework.md#archiving-old-documentation)
   * Clear and accurate documentation.
 
 ### Indexing existing documentation
 
-* See Documentation Inventory
+* See [Documentation Inventory](documentation-inventory.md)
 
 ### Auditing existing information
 
@@ -52,7 +52,8 @@ The documentation is outdated, ambiguous, partial, and scattered. It exists in s
   * their published spaces are not linked anywhere
   * their published spaces are not indexed by google
   * the Greenstand Gitbook is locked behind authorization
-* In repos and wikis as given in the Documentation Inventory
+* In repos and wikis as given in the [Documentation Inventory](documentation-inventory.md)
+*
 
 ### Standardizing the documentation
 
@@ -94,16 +95,17 @@ Using the above image as a guideline, we can divide the documentation into 2 typ
 
 #### New framework
 
-* Single Documentation Portal
-  * All the documentation is consolidated under `docs.greenstand.org`, via Gitbook
-  * All documentation is up to date
+* All documentation is up to date
 * Keeping a changelog
-* All relevant project repos have a `docs/` directory corresponding to a Gitbook space.
 * Sustainable processes for maintaining documentation.
 
 ### Greenstand Core Audiences
 
 ### Consolidating documentation
+
+* Single Documentation Portal
+* All the documentation is consolidated under `docs.greenstand.org`, via Gitbook
+* All relevant project repos have a `docs/` directory corresponding to a Gitbook space.
 
 ### Support documentation
 
@@ -119,4 +121,4 @@ Using the above image as a guideline, we can divide the documentation into 2 typ
     * Link to Github space
   * Gitbook space
   * No wikis
-  *
+
