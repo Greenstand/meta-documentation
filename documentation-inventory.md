@@ -89,7 +89,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
     * [https://docs.greenstand.org/mobile-app](https://docs.greenstand.org/mobile-app)
   * Microservices Working Group
     * [https://docs.greenstand.org/microservices-working-group/](https://docs.greenstand.org/microservices-working-group/)
-    * To be deleted (empty)
+    * Synced with [https://github.com/Greenstand/microservices-documentation/tree/main](https://github.com/Greenstand/microservices-documentation/tree/main)
   * Treetracker API / Mapnik Server
     * [https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/UnWPz1580gx1f3eSDEc1/](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/UnWPz1580gx1f3eSDEc1/)
     * Currently unpublished (as a part of Engineering collection)
