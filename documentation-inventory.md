@@ -1,3 +1,7 @@
+---
+description: List of all available documentation
+---
+
 # Documentation Inventory
 
 ## Documentation Inventory
@@ -95,7 +99,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
     * [https://docs.greenstand.org/wallet-admin-client/](https://docs.greenstand.org/wallet-admin-client/)
   * System Design
     * [https://docs.greenstand.org/system-design](https://docs.greenstand.org/system-design)
-    * Synced with [https://github.com/Greenstand/system-design-docs/tree/main](https://github.com/Greenstand/system-design-docs/tree/main)
+    * Synced with [https://github.com/Greenstand/system-design-docs/tree/master](https://github.com/Greenstand/system-design-docs/tree/master)
 * Experimental Teams
   * Botany
     * [https://docs.greenstand.org/botany](https://docs.greenstand.org/botany)
