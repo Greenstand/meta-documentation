@@ -2,7 +2,7 @@
 
 ## Documentation Inventory
 
-The grant-application/documentation plan calls for "indexing and auditing the status of all existing documentation." To that end, here is a list of directories, repos, websites, etc. that contain documention, as of July 12, 2023.
+The grant-application/documentation plan calls for "indexing and auditing the status of all existing documentation." To that end, here is a list of directories, repos, websites, etc. that contain documention, as of July 14, 2023.
 
 This list includes all the documents listed in issue 18 of the greenstand-documentation repo ([https://github.com/Greenstand/greenstand-documentation/issues/18](https://github.com/Greenstand/greenstand-documentation/issues/18))
 
@@ -23,7 +23,6 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 ### Other Repos
 
 * [https://github.com/Greenstand/Greenstand-Overview/tree/main](https://github.com/Greenstand/Greenstand-Overview/tree/main)
-* [https://github.com/Greenstand/system-design-docs/tree/main](https://github.com/Greenstand/system-design-docs/tree/main)
 * [https://github.com/Greenstand/treetracker-decisions/tree/main](https://github.com/Greenstand/treetracker-decisions/tree/main)
 * [https://github.com/Greenstand/treetracker-infrastructure-adr/tree/main](https://github.com/Greenstand/treetracker-infrastructure-adr/tree/main)
 
@@ -94,6 +93,9 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
     * [https://docs.greenstand.org/auth-system/](https://docs.greenstand.org/auth-system/)
   * Wallet Admin Client
     * [https://docs.greenstand.org/wallet-admin-client/](https://docs.greenstand.org/wallet-admin-client/)
+  * System Design
+    * [https://docs.greenstand.org/system-design](https://docs.greenstand.org/system-design)
+    * Synced with [https://github.com/Greenstand/system-design-docs/tree/main](https://github.com/Greenstand/system-design-docs/tree/main)
 * Experimental Teams
   * Botany
     * [https://docs.greenstand.org/botany](https://docs.greenstand.org/botany)
