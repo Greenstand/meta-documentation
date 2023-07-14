@@ -40,6 +40,20 @@ The scope of this documentation project includes:
 * [ ] [Consolidate/migrate documentation, including archiving documentation and repositories that are old, outdated, or obsolete.](documentation-framework.md#archiving-old-documentation)
   * Clear and accurate documentation.
 
+### Gitbook vs Github Pages
+
+Gitbook is far more convenient to use than Github Pages.&#x20;
+
+The latter requires managing the individual project deployments, in addition to learning Jekyll + Just The Docs format. Updating the theme also requires manually updating each project, which is trivial but undoubtedly tedious.
+
+Hosting all documentation on only Github restricts contribution and editing of the documentation using Markdown and pull requests, which may be inconvenient to non-technical contributors. Gitbook can be synced with Github, which allows for contribution from the Github side if desired.
+
+Gitbook also provides more sophisticated access management, and integrations with third party services like Figma, Slack, etc.&#x20;
+
+In conclusion, although Github Pages may work with some initial effort, Gitbook provides solutions for most of the current issues with documentation.
+
+
+
 ### Indexing existing documentation
 
 * See [Documentation Inventory](documentation-inventory.md)
