@@ -8,7 +8,7 @@ This list includes all the documents listed in issue 18 of the greenstand-docume
 
 Let's expand, amend, and annotate this list to keep track of document status: Is a file up-to-date? Rewritten as an \*.md file in this repo? Deleted?
 
-#### Status
+### Status
 
 * **Up to date** - nothing needs to be done
 * **To be reviewed** - quality of information needs to be determined
@@ -16,18 +16,18 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * **To be deleted** - irrelevant, unnecessary or redundant
 * **Unknown**
 
-#### This Repo
+### This Repo
 
 * [https://github.com/Greenstand/greenstand-documentation/tree/main](https://github.com/Greenstand/greenstand-documentation/tree/main)
 
-#### Other Repos
+### Other Repos
 
 * [https://github.com/Greenstand/Greenstand-Overview/tree/main](https://github.com/Greenstand/Greenstand-Overview/tree/main)
 * [https://github.com/Greenstand/system-design-docs/tree/main](https://github.com/Greenstand/system-design-docs/tree/main)
 * [https://github.com/Greenstand/treetracker-decisions/tree/main](https://github.com/Greenstand/treetracker-decisions/tree/main)
 * [https://github.com/Greenstand/treetracker-infrastructure-adr/tree/main](https://github.com/Greenstand/treetracker-infrastructure-adr/tree/main)
 
-#### `greenstand.org` Website
+### `greenstand.org` Website
 
 * [https://greenstand.org/devbox](https://greenstand.org/devbox)
 * [https://greenstand.org/docs](https://greenstand.org/docs)
@@ -35,7 +35,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * [https://greenstand.org/documentation](https://greenstand.org/documentation)
   * To be deleted ( redundant, present in `greenstand-documentation`)
 
-#### Wikis
+### Wikis
 
 * [https://github.com/Greenstand/Greenstand-Overview/wiki](https://github.com/Greenstand/Greenstand-Overview/wiki)
 * [https://github.com/Greenstand/treetracker-android/wiki](https://github.com/Greenstand/treetracker-android/wiki)
@@ -45,7 +45,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * [https://github.com/Greenstand/treetracker-infrastructure/wiki](https://github.com/Greenstand/treetracker-infrastructure/wiki)
 * [https://github.com/Greenstand/treetracker-admin-api/wiki](https://github.com/Greenstand/treetracker-admin-api/wiki)
 
-#### Gitbook
+### Gitbook
 
 * [https://app.gitbook.com/@greenstand](https://app.gitbook.com/@greenstand)
 * Overview
