@@ -6,3 +6,4 @@
 * [Documentation Framework](documentation-framework.md)
 * [Documentation Inventory](documentation-inventory.md)
 * [Template for project](template-for-project.md)
+* [210908.index](210908.index.md)
