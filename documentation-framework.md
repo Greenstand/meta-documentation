@@ -52,11 +52,9 @@ Gitbook also provides more sophisticated access management, and integrations wit
 
 In conclusion, although Github Pages may work with some initial effort, Gitbook provides solutions for most of the current issues with documentation.
 
-
-
 ### Indexing existing documentation
 
-* See [Documentation Inventory](documentation-inventory.md)
+* See [Documentation Inventory](documentation-inventory.md) for the list of all currently existing documentation.
 
 ### Auditing existing information
 
@@ -67,7 +65,6 @@ The documentation is outdated, ambiguous, partial, and scattered. It exists in s
   * their published spaces are not indexed by google
   * the Greenstand Gitbook is locked behind authorization
 * In repos and wikis as given in the [Documentation Inventory](documentation-inventory.md)
-*
 
 ### Standardizing the documentation
 
@@ -112,6 +109,9 @@ Using the above image as a guideline, we can divide the documentation into 2 typ
 * All documentation is up to date
 * Keeping a changelog
 * Sustainable processes for maintaining documentation.
+* Organizing spaces in proper collections hierarchy
+  * Publishing collections instead of individual spaces is an option
+  * Customization to make each collection look distinct?&#x20;
 
 ### Greenstand Core Audiences
 
