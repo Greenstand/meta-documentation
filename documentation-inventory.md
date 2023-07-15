@@ -1,7 +1,3 @@
----
-description: List of all available documentation
----
-
 # Documentation Inventory
 
 ## Documentation Inventory
