@@ -143,7 +143,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * Programs
   * Programs
     * [https://docs.greenstand.org/programs/](https://docs.greenstand.org/programs/)
-  * Wallet Operations
+  * Wallet Operator
     * [https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-Ma06v9oiMS8sdJdbT3J/](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-Ma06v9oiMS8sdJdbT3J/)
     * Currently unpublished
   * Data Flow
