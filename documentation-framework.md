@@ -13,9 +13,9 @@ The scope of this documentation project includes:
 
 * [ ] Recruit and Appoint Documentation Project Lead and Project Manager
   * Appointment of a Project Lead and Project Manager
-* [x] [Complete inventory of existing documentation](documentation-framework.md#indexing-existing-documentation)&#x20;
+* [x] [Complete inventory of existing documentation](documentation-inventory.md)&#x20;
   * MD file on Github with links and descriptions of all documentation
-* [ ] [Perform an audit of Greenstand’s existing information and documentation. Include what exists now, where it's located, updates needed, and any gaps, and enhancement opportunities.](documentation-framework.md#auditing-existing-information)
+* [ ] [Perform an audit of Greenstand’s existing information and documentation. Include what exists now, where it's located, updates needed, and any gaps, and enhancement opportunities.](audit/introduction.md)
   * Adding document status to the MD file on Github with links and descriptions of all documentation.
 * [ ] [Research options and best practices for Documentation structure](documentation-framework.md#standardizing-the-documentation)
   * Create a publicly accessible and linked road map file outlining path forward for documentation.
@@ -52,19 +52,7 @@ Gitbook also provides more sophisticated access management, and integrations wit
 
 In conclusion, although Github Pages may work with some initial effort, Gitbook provides solutions for most of the current issues with documentation.
 
-### Indexing existing documentation
 
-* See [Documentation Inventory](documentation-inventory.md) for the list of all currently existing documentation.
-
-### Auditing existing information
-
-The documentation is outdated, ambiguous, partial, and scattered. It exists in sources such as:
-
-* In various Gitbook spaces, many of which are inaccesible as:
-  * their published spaces are not linked anywhere
-  * their published spaces are not indexed by google
-  * the Greenstand Gitbook is locked behind authorization
-* In repos and wikis as given in the [Documentation Inventory](documentation-inventory.md)
 
 ### Standardizing the documentation
 
@@ -129,14 +117,5 @@ Using the above image as a guideline, we can divide the documentation into 2 typ
 
 ### Archiving old documentation
 
-### TODOs
-
-* Standardize documentation for project repos
-  * README.md
-    * Summary
-    * Installation steps
-    * Contributing guidelines
-    * Link to Github space
-  * Gitbook space
-  * No wikis
+###
 
