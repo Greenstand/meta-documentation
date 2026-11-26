@@ -1,6 +1,51 @@
 # Documentation Inventory
 
-## Documentation Inventory
+## Current inventory — 26 November 2026
+
+The signed-in Greenstand GitBook inventory contains **45 spaces**. This is an inventory of visible spaces, not certification that every page is current. Space modification dates do not establish the accuracy of their content.
+
+Use [Greenstand documentation](https://docs.greenstand.org) for public reading and [GitBook](https://app.gitbook.com/) for editing. Confirm effective space permissions and the actual Git Sync configuration before assuming a repository edit will publish. The Admin Panel site showed Git Sync disconnected during this review.
+
+### Review status
+
+| Area | Evidence and next action |
+| --- | --- |
+| Admin Panel | Obsolete meeting section removed through change request #101; Sebastian reports it published. Architecture and permissions pages still need reconciliation with the open implementation PRs. |
+| Engineer’s Handbook | [PR #205](https://github.com/Greenstand/Greenstand-Overview/pull/205) removes obsolete recurring meetings and refreshes onboarding. Pending review; not a published correction yet. |
+| Mobile App | Overview contains historical release claims. Check Android releases and merged code before replacing them; project-aware offline routing remains a proposal. |
+| System Design | Public navigation includes a localhost overview link; correction prepared in the documentation source. Deployment status must be checked separately from architecture proposals. |
+| Other spaces | Inventoried below. Content and ownership review remains outstanding; age alone is not a reason to rewrite policies or delete historical records. |
+
+### Spaces observed
+
+| Collection | Spaces |
+| --- | --- |
+| Common / Engineering | Engineer’s Handbook; ReactJS Guidelines |
+| Common | System Design; Onboarding; Meta-Documentation |
+| Engineering / Admin Panel | Admin Panel; Freetown; drafts |
+| Engineering / Web Map | Web Map; Impact Map; Tile Server |
+| Engineering / Wallet Admin | Overview; Development; End User |
+| Engineering / Treetracker | Mobile App; GIZ |
+| Engineering / Infrastructure | Onboarding cloud engineering; Application Platform; Kubernetes; Keycloak; aws; User and Auth System; PostgreSQL exporter on prometheus |
+| Engineering / APIs and services | Greenstand Microservices; Treetracker API; Microservices Product Documentation |
+| Engineering | Machine Learning; Automation; Agile Programing; Data Flow |
+| Experimental Teams | Programs; Freetown; Botany; Blockchain |
+| Operations | Communications Policies & Procedures v2; Design; HubSpot Email Workflow; Communications Lead Training Manual; Treetracker Liaison Workspace; Fundraising Case Statement; Grants; Human Resources; Operations Handbook |
+| Standalone | Wallet; Serverless/FAAS |
+
+Duplicate names such as Freetown and Overview refer to different spaces. Collection labels above group the observed inventory for readability. Do not merge or delete them solely because their names overlap.
+
+### Sources for current technical work
+
+- [Admin client PR #1315](https://github.com/Greenstand/treetracker-admin-client/pull/1315) and [Admin API PR #699](https://github.com/Greenstand/treetracker-admin-api/pull/699): open integration work, not evidence of production deployment.
+- [Decision proposal #35](https://github.com/Greenstand/treetracker-decisions/pull/35): stakeholder membership, project-based session ownership and offline Android implications; proposed, not accepted policy.
+- [Android issue #1468](https://github.com/Greenstand/treetracker-android/issues/1468): App Links work; distinguish it from authorization and session allocation.
+
+Recurring team-meeting schedules are no longer current, as confirmed by Sebastian. Remove attendance directions from active guidance; preserve historical minutes.
+
+## Historical inventory — July 2023
+
+The following is retained as a historical reference. Its publication, synchronization and deletion recommendations have **not** been revalidated and must not be treated as current configuration.
 
 The grant-application/documentation plan calls for "indexing and auditing the status of all existing documentation." To that end, here is a list of directories, repos, websites, etc. that contain documention, as of July 14, 2023.
 
@@ -56,8 +101,7 @@ Let's expand, amend, and annotate this list to keep track of document status: Is
 * Onboarding
   * [https://docs.greenstand.org/onboarding](https://docs.greenstand.org/onboarding)
 * Freetown
-  * [https://docs.greenstand.org/freetown/Z50h9ecwgVA3dkNq5iCh/](https://docs.greenstand.org/freetown/Z50h9ecwgVA3dkNq5iCh/)
-  * Not published to the web, shared via secret share link
+  * Historical restricted Freetown space; access through the organization inventory.
 * Drafts
   * [https://docs.greenstand.org/drafts](https://docs.greenstand.org/drafts)
 * Engineering
