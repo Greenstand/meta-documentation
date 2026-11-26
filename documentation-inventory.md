@@ -8,38 +8,38 @@ Use [Greenstand documentation](https://docs.greenstand.org) for public reading a
 
 ### Review status
 
-| Area | Evidence and next action |
-| --- | --- |
-| Admin Panel | Obsolete meeting section removed through change request #101; Sebastian reports it published. Architecture and permissions pages still need reconciliation with the open implementation PRs. |
-| Engineer’s Handbook | [PR #205](https://github.com/Greenstand/Greenstand-Overview/pull/205) removes obsolete recurring meetings and refreshes onboarding. Pending review; not a published correction yet. |
-| Mobile App | Overview contains historical release claims. Check Android releases and merged code before replacing them; project-aware offline routing remains a proposal. |
-| System Design | Public navigation includes a localhost overview link; correction prepared in the documentation source. Deployment status must be checked separately from architecture proposals. |
-| Other spaces | Inventoried below. Content and ownership review remains outstanding; age alone is not a reason to rewrite policies or delete historical records. |
+| Area                | Evidence and next action                                                                                                                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin Panel         | Obsolete meeting section removed through change request #101; Sebastian reports it published. Architecture and permissions pages still need reconciliation with the open implementation PRs.                                 |
+| Engineer’s Handbook | PR #205 merged on 26 November 2026: https://github.com/Greenstand/Greenstand-Overview/pull/205. The current GitBook Handbook reflects the updated software-role wording and removal of obsolete meeting guidance.            |
+| Mobile App          | Reviewed mobile content is saved in Mobile App change request #39, including the dated 8-million capture count and offline routing proposal context. Awaiting review and publication. Source documentation PR #90 is merged. |
+| System Design       | Public navigation includes a localhost overview link; correction prepared in the documentation source. Deployment status must be checked separately from architecture proposals.                                             |
+| Other spaces        | Inventoried below. Content and ownership review remains outstanding; age alone is not a reason to rewrite policies or delete historical records.                                                                             |
 
 ### Spaces observed
 
-| Collection | Spaces |
-| --- | --- |
-| Common / Engineering | Engineer’s Handbook; ReactJS Guidelines |
-| Common | System Design; Onboarding; Meta-Documentation |
-| Engineering / Admin Panel | Admin Panel; Freetown; drafts |
-| Engineering / Web Map | Web Map; Impact Map; Tile Server |
-| Engineering / Wallet Admin | Overview; Development; End User |
-| Engineering / Treetracker | Mobile App; GIZ |
-| Engineering / Infrastructure | Onboarding cloud engineering; Application Platform; Kubernetes; Keycloak; aws; User and Auth System; PostgreSQL exporter on prometheus |
-| Engineering / APIs and services | Greenstand Microservices; Treetracker API; Microservices Product Documentation |
-| Engineering | Machine Learning; Automation; Agile Programing; Data Flow |
-| Experimental Teams | Programs; Freetown; Botany; Blockchain |
-| Operations | Communications Policies & Procedures v2; Design; HubSpot Email Workflow; Communications Lead Training Manual; Treetracker Liaison Workspace; Fundraising Case Statement; Grants; Human Resources; Operations Handbook |
-| Standalone | Wallet; Serverless/FAAS |
+| Collection                      | Spaces                                                                                                                                                                                                                |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Common / Engineering            | Engineer’s Handbook; ReactJS Guidelines                                                                                                                                                                               |
+| Common                          | System Design; Onboarding; Meta-Documentation                                                                                                                                                                         |
+| Engineering / Admin Panel       | Admin Panel; Freetown; drafts                                                                                                                                                                                         |
+| Engineering / Web Map           | Web Map; Impact Map; Tile Server                                                                                                                                                                                      |
+| Engineering / Wallet Admin      | Overview; Development; End User                                                                                                                                                                                       |
+| Engineering / Treetracker       | Mobile App; GIZ                                                                                                                                                                                                       |
+| Engineering / Infrastructure    | Onboarding cloud engineering; Application Platform; Kubernetes; Keycloak; aws; User and Auth System; PostgreSQL exporter on prometheus                                                                                |
+| Engineering / APIs and services | Greenstand Microservices; Treetracker API; Microservices Product Documentation                                                                                                                                        |
+| Engineering                     | Machine Learning; Automation; Agile Programing; Data Flow                                                                                                                                                             |
+| Experimental Teams              | Programs; Freetown; Botany; Blockchain                                                                                                                                                                                |
+| Operations                      | Communications Policies & Procedures v2; Design; HubSpot Email Workflow; Communications Lead Training Manual; Treetracker Liaison Workspace; Fundraising Case Statement; Grants; Human Resources; Operations Handbook |
+| Standalone                      | Wallet; Serverless/FAAS                                                                                                                                                                                               |
 
 Duplicate names such as Freetown and Overview refer to different spaces. Collection labels above group the observed inventory for readability. Do not merge or delete them solely because their names overlap.
 
 ### Sources for current technical work
 
-- [Admin client PR #1315](https://github.com/Greenstand/treetracker-admin-client/pull/1315) and [Admin API PR #699](https://github.com/Greenstand/treetracker-admin-api/pull/699): open integration work, not evidence of production deployment.
-- [Decision proposal #35](https://github.com/Greenstand/treetracker-decisions/pull/35): stakeholder membership, project-based session ownership and offline Android implications; proposed, not accepted policy.
-- [Android issue #1468](https://github.com/Greenstand/treetracker-android/issues/1468): App Links work; distinguish it from authorization and session allocation.
+* [Admin client PR #1315](https://github.com/Greenstand/treetracker-admin-client/pull/1315) and [Admin API PR #699](https://github.com/Greenstand/treetracker-admin-api/pull/699): open integration work, not evidence of production deployment.
+* [Decision proposal #35](https://github.com/Greenstand/treetracker-decisions/pull/35): stakeholder membership, project-based session ownership and offline Android implications; proposed, not accepted policy.
+* [Android issue #1468](https://github.com/Greenstand/treetracker-android/issues/1468): App Links work; distinguish it from authorization and session allocation.
 
 Recurring team-meeting schedules are no longer current, as confirmed by Sebastian. Remove attendance directions from active guidance; preserve historical minutes.
 
