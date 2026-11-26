@@ -17,4 +17,4 @@
 * [Operations](audit/operations.md)
 * [Programs](audit/programs.md)
 * [Documentation](audit/documentation.md)
-* [📚 Greenstand Overview](http://127.0.0.1:5000/o/-MXNadx4i6aOZ12XcStA/s/i8dLZ21y64GQhjgGt5Y3/)
+* [📚 Greenstand Overview](https://docs.greenstand.org/overview/)
